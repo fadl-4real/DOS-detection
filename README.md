@@ -27,7 +27,7 @@ This project implements a real-time Denial of Service (DOS) detection system usi
 ---
 
 ## 🎥 Walkthrough Video  
-[Watch on YouTube](https://your-youtube-link-here.com)
+[Watch on YouTube](https://youtu.be/jn4vhHMvWdA)
 
 ---
 
